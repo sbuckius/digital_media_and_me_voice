@@ -61,9 +61,9 @@ function draw() {
   textAlign(CENTER);
   text("You + Digital Media", width / 2, 40);
 
-  textSize(10);
+  textSize(8);
   textAlign(LEFT);
-  text("Type three words that describe your lived experience with digital media.", width / 6, 120);
+  text("Type three words that describe your lived experience with digital media.", width / 3, 120);
 
   drawPoemBox();
 }
